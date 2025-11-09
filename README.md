@@ -110,6 +110,15 @@ The goal of this project is to analyze the sales data of an Online Library Manag
 
 10. **Inventory Risk Insight**  
     Which books are most frequently ordered but currently have low stock?
+    
+11. **Customer Lifetime Analysis**
+    Which customers have generated the highest lifetime revenue for the library, and when did each make their most recent purchase?
+    
+12. **Monthly Revenue Contribution by Top Authors**  
+    Which authors contributed the highest share of total revenue each month in 2024, and how does their performance trend over time?
+
+13. **Seasonal Customer Buying Pattern and Revenue Share**  
+   Which customers contributed the most to total sales during each quarter of 2024, and how does their purchase frequency compare across the year?
 
     
 
