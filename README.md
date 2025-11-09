@@ -51,28 +51,29 @@ After analyzing the data, the following recommendations were drawn:
 
 SUMMARY OF CUSTOMERS WITH THE HIGHEST PURCHASE
 
-**1. Kim Turner**
-Made the highest purchases at a total of 13.989k with 4 orders of books
+1. **Kim Turner**  
+   Made the highest purchases at a total of 13.989k with 4 orders of books
 
-**2. Jonathon Strickland**
-Made higher purchases at a total of 10.81k with 4 orders
+2. **Jonathon Strickland**  
+   Made higher purchases at a total of 10.81k with 4 orders
 
-**3. Carrie Perez**
-Made higher purchases at a total of 10.52k with a higher order of 6 books
+3. **Carrie Perez**  
+   Made higher purchases at a total of 10.52k with a higher order of 6 books
 
 SUMMARY OF THE MOST LIKED GENRES OF BOOKS
 
 **Genre 1: Romance**  
-a. Most loved genre with a total of 75 customers 
-b. Highest sales recorded from the customers at 13.0886k
+1. Most loved genre with a total of 75 customers
+2. Highest sales recorded from the customers at 13.0886k
 
-**Genre 2: Mystery**  
-a. Mostly loved genre with a total of 76 customers 
-b. Highest sales recorded from the customers at 12.788k
-c. Recorded a higher number of orders from the sales of books at 83
+**Genre 2: Mystery** 
+1. Mostly loved genre with a total of 76 customers
+2. Highest sales recorded from the customers at 12.788k
+3. Recorded a higher number of orders from the sales of books at 83
 
-**Genre 3: Science Fiction**  
-a. Most loved genre with a total of 75 customers 
-b. Recorded the highest number of orders from the sales of books at 84
+**Genre 3: Science Fiction** 
+1. Most loved genre with a total of 75 customers
+2. Recorded the highest number of orders from the sales of books at 84
+
 
 ---
